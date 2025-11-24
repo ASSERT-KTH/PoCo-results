@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://arxiv.org/abs/2511.02780"><b>📄 PoCo Paper </b></a> &nbsp;|&nbsp;
-    <a href="https://github.com/ASSERT-KTH/Proof-of-Patch"><b>📊 PoCo Dataset</b></a>
+    <a href="https://github.com/ASSERT-KTH/Proof-of-Patch"><b>📊 Proof of Patch Dataset</b></a>
   </p>
 
   <p>
