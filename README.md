@@ -35,10 +35,17 @@ Access to the full PoCo implementation is available upon request:
 If you use PoCo or the Proof-of-Patch dataset in your work, please cite:
 
 ```bibtex
-@article{anderssonbobadilla2025poco,
-  title={PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts},
-  author={Andersson, Vivi and Bobadilla, Sofia and Hobbelhagen, Harald and Monperrus, Martin},
-  journal={arXiv preprint arXiv:2511.02780},
-  year={2025}
+@article{anderssonbobadilla,
+  author = {Andersson, Vivi and Bobadilla, Sofia and Hobbelhagen, Harald and Monperrus, Martin},
+  title = {PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts},
+  year = {2026},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {1049-331X},
+  url = {https://doi.org/10.1145/3816704},
+  doi = {10.1145/3816704},
+  note = {Just Accepted},
+  journal = {ACM Trans. Softw. Eng. Methodol.},
+  month = may
 }
 ```
