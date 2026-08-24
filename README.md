@@ -3,10 +3,10 @@
 <div align="center">
 
 
-### 📄 [PoCo Paper](https://arxiv.org/abs/2511.02780) • 🗂️ [Proof-of-Patch Dataset](https://github.com/ASSERT-KTH/Proof-of-Patch)
+### 📄 [PoCo Paper](https://arxiv.org/abs/2511.02780) • 🗂️ [Proof-of-Patch Dataset](https://github.com/ASSERT-KTH/Proof-of-Patch) • 👀 [Trajectory & Data Viewer](https://assert-kth.github.io/poco/)
 
 <p align="center">
-  <img src="fig/PoCo.png" alt="PoCo overview" width="700"/>
+  <img src="fig/PoCo.png" alt="PoCo overview" width="600"/>
 </p>
 
 </div>
